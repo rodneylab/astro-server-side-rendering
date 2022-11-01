@@ -11,6 +11,6 @@ astro-server-side-renderin<img src="./images/rodneylab-github-astro-server-side-
 
 # svelte-video blog
 
-Starter code for the <a aria-label="Open Rodney Lab Plus Tutorial on Astro Server Sde Rendering" href="https://plus.rodneylab.com/tutorials/svelte-video-blog">Astro Server-Side Rendering tutorial</a> in which we build out a search site in Astro with Edge data customising for the visitor's location.
+Starter code for the <a aria-label="Open Rodney Lab Plus Tutorial on Astro Server Sde Rendering" href="https://plus.rodneylab.com/tutorials/astro-server-side-rendering">Astro Server-Side Rendering tutorial</a> in which we build out a search site in Astro with Edge data customising for the visitor's location.
 
 Feel free to jump into the [Rodney Lab matrix chat room](https://matrix.to/#/%23rodney:matrix.org).
